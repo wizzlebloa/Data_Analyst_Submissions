@@ -1,0 +1,6 @@
+For this project I used the following resources:
+
+- Description of Dataset on Kaggle.com: https://www.kaggle.com/joniarroba/noshowappointments 
+- Examples on Matplotlib.org for drawing my charts: https://matplotlib.org/stable/gallery/index.html
+- Anwers for programming questions on stackoverflow.com
+- Udacity's lessons and examples within the Data Analyst program
